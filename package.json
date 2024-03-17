@@ -1,0 +1,25 @@
+{
+  "name": "backend-dev-blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fasteol/backend-dev-blogs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fasteol/backend-dev-blogs/issues"
+  },
+  "homepage": "https://github.com/Fasteol/backend-dev-blogs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "fs": "^0.0.1-security"
+  }
+}
